@@ -12,5 +12,9 @@ namespace P6_GitApp
         {
             Console.WriteLine("Welcome To Deloitte");
         }
+        static void Display()
+        {
+            Console.WriteLine("Welcome to GitHub a/c from VS");
+        }
     }
 }
