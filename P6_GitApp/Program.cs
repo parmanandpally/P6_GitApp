@@ -11,6 +11,7 @@ namespace P6_GitApp
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome To Deloitte");
+            Display();
         }
         static void Display()
         {
